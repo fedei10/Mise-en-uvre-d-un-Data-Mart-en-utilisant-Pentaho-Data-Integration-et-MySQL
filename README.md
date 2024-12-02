@@ -78,4 +78,4 @@ Ce projet offre un aperçu complet du processus de création, de conception et d
 - [Pentaho Data Integration Documentation](https://help.pentaho.com/Documentation/9.4/Products/Data_Integration)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 
-Po
+Pour toute question ou assistance, veuillez contacter @bellakhelfedi@gmail.com
